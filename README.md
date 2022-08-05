@@ -1,4 +1,4 @@
-# Hey Dickinson Bedoya Perez 👻
+# Hey, I'm Dickinson Bedoya Perez 👻
 <p><em>A computer science student at <a href="https://www.urv.cat/es/">University Rovira i Virgili</a> 😊</br>
 </em></p>
 
