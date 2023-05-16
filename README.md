@@ -5,15 +5,15 @@
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dickinson-bedoya/">
+  <a href="https://www.linkedin.com/in/dickinson-bedoya/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Dickinson Bedoya Perez's LinkedIn Profile" height="30" width="30">
   </a>
   
-   <a href="https://www.instagram.com/es.dbp.www/">
+   <a href="https://www.instagram.com/es.dbp.www/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Dickinson Bedoya Perez's Instagram Profile" height="30" width="30">
   </a>
   
-  <a href="https://soundcloud.com/dickinsonbp-bedoya">
+  <a href="https://soundcloud.com/dickinsonbp-bedoya" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/soundcloud/soundcloud-icon.svg" alt="Dickinson Bedoya Perez's SoundCloud Profile" height="30" width="30">
   </a>
 
