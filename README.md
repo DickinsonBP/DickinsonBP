@@ -1,5 +1,5 @@
 # Hey, I'm Dickinson Bedoya Perez 👻
-<p><em>A computer science student at <a href="https://www.urv.cat/es/">University Rovira i Virgili</a> 😊</br>
+<p><em>A Data Engineer 😊</br>
 </em></p>
 
 <h2 align="center">You can reach me at :alien:</h2>
